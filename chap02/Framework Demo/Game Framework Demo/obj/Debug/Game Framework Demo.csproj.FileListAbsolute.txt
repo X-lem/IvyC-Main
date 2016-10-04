@@ -1,0 +1,15 @@
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap02\Framework Demo\Game Framework Demo\bin\Debug\Game Framework Demo.exe
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap02\Framework Demo\Game Framework Demo\bin\Debug\Game Framework Demo.pdb
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Form1.resources
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game_Framework_Demo.Properties.Resources.resources
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game Framework Demo.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game Framework Demo.exe
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game Framework Demo.pdb
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game Framework Demo.exe
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game Framework Demo.pdb
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\bin\Debug\Game Framework Demo.exe
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\bin\Debug\Game Framework Demo.pdb
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game Framework Demo.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Form1.resources
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game_Framework_Demo.Properties.Resources.resources
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap02\Framework Demo\Game Framework Demo\obj\Debug\Game Framework Demo.csproj.GenerateResource.Cache

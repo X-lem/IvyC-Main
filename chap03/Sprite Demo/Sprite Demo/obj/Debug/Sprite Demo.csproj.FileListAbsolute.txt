@@ -1,0 +1,10 @@
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\bin\Debug\Sprite Demo.exe
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\bin\Debug\Sprite Demo.pdb
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite_Demo.Form1.resources
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite_Demo.Properties.Resources.resources
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.exe
+C:\Users\Samuel\Documents\GitHub\C#Class\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.pdb
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.exe
+C:\Users\Samuel\Documents\GitHub\IVY-C#\Source\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.pdb
