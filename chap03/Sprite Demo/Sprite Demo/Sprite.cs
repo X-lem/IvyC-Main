@@ -15,7 +15,8 @@ namespace RPG
         {
             WRAP = 0,
             BOUNCE = 1,
-            TETHER = 7
+            TETHER = 7,
+            Hippo = 22
         }
 
         private Game p_game;
