@@ -14,8 +14,7 @@ namespace RPG
         public enum AnimateWrap
         {
             WRAP = 0,
-            BOUNCE = 1,
-            TETHER = 7
+            BOUNCE = 1
         }
 
         private Game p_game;
